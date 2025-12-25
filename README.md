@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 Autoscript SSH XRAY Websocket Multiport By Vinstechmy (FREE!)🚀
+🚀 Autoscript SSH XRAY Websocket Multiport By DevHttp (FREE!)🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
